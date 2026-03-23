@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello this is new updated one"<<endl;
+    cout<<"updated one adding up a feature"<<endl;
 
     return 0;
 }
